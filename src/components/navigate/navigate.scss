@@ -1,0 +1,16 @@
+.component-nav {
+    height: 58px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+  }
+
+  @media only screen and (max-width: 991px) {
+    .component-nav {
+      height: auto;
+    }
+  }
+
+img {
+    height: 40px;
+    length: 30px;
+}

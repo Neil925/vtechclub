@@ -15,6 +15,9 @@ class EminenceInShadow extends Component {
           light novel and main manga have been licensed in North America by Yen Press. An anime television series adaptation produced by
           Nexus premiered in October 2022.
         </p>
+        <p>
+          A warm thanks to the many members of the Merchants Guild.
+        </p>
       </div>
     );
   }
